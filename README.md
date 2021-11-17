@@ -9,7 +9,12 @@ OBJETIVOS
 
 MARCO TEORICO
 
-CAPITULO 4:
+Capitulo 3:
+![](https://github.com/ANTHONYCHINITO/TAREA-2/blob/main/Imagenes/LEY%20DE%20OHM.png)
+
+![](https://github.com/ANTHONYCHINITO/TAREA-2/blob/main/Imagenes/png%20(3).png)
+
+Capitulo 4:
 
 •	HACER CLICK
 
