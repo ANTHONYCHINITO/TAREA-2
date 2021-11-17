@@ -9,6 +9,15 @@ OBJETIVOS
 
 MARCO TEORICO
 
+CAPITULO 4:
+
+•	HACER CLICK
+
+![CIRCUITOS - Página 1](https://user-images.githubusercontent.com/93900233/142263723-79206e4e-08f2-458f-92af-e91e4884353a.png)
+
+•	HACER CLICK
+
+![CIRCUITOS - Page 2](https://user-images.githubusercontent.com/93900233/142263729-97b76030-c6fa-443a-9a13-be63c127fe7b.png)
 
 
 
