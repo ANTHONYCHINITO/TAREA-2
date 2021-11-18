@@ -91,19 +91,28 @@ Objetivos Específicos
 
 # EJERCICIO 27
 
+![CAP3Part2_Página_1](https://user-images.githubusercontent.com/93899422/142338784-0e5da0e4-6d44-40b5-aecb-779c0c6f8e83.png)
+
 # EJERCICIO 29
+
+![CAP3Part2_Página_2](https://user-images.githubusercontent.com/93899422/142338788-6fb55a52-d2a2-47c5-8833-866461e6e9d0.png)
 
 # EJERCICIO 31
 
+<img width="434" alt="CAP3Part2_Página_3" src="https://user-images.githubusercontent.com/93899422/142338790-598b3ff4-aa55-4947-bbc7-c25fa060297a.png">
+
 # EJERCICIO 33
+
+![CAP3Part2_Página_4](https://user-images.githubusercontent.com/93899422/142338791-9c0eff01-f95e-4296-b6c5-85283f572b23.png)
 
 # EJERCICIO 35
 
+![CAP3Part2_Página_5](https://user-images.githubusercontent.com/93899422/142338794-c6447ffe-a541-4ae4-87a4-c884fb7b17fd.png)
+
 # EJERCICIO 37
 
-# EJERCICIO 41
+![CAP3Part2](https://user-images.githubusercontent.com/93899422/142338798-ee54be23-b311-400c-99d4-4de086988c69.png)
 
-# EJERCICIO 43
 
 # VIDEO
 
