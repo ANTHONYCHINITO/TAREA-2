@@ -83,11 +83,11 @@ Objetivos Específicos
 
 # EJERCICIO 23
 
-![CAP 3_Página_12](https://user-images.githubusercontent.com/93899422/142332743-fef7bbd0-125f-47ce-91c9-88b5c10ee6fa.png)
+![CAP3_Página_2](https://user-images.githubusercontent.com/93899422/142341966-3753df2d-f1b1-424a-b42b-028cfdc5dc9a.png)
 
 # EJERCICIO 25
 
-![CAP 3_Página_13](https://user-images.githubusercontent.com/93899422/142332746-cef95aae-de19-4ba2-a4ed-813103c82b03.png)
+![CAP3_Página_1](https://user-images.githubusercontent.com/93899422/142341969-f796f2d3-eeea-4581-81c5-4b25f4dd3ddb.png)
 
 # EJERCICIO 27
 
