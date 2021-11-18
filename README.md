@@ -135,10 +135,9 @@ Objetivos Específicos
 
 ![CAP4_9](https://user-images.githubusercontent.com/93899422/142348477-fcfb24e0-f866-471f-a501-1a1557747f2e.png)
 
-
 # EJERCICIOS 11
 
-![CAP4_11](https://user-images.githubusercontent.com/93899422/142348479-462ef452-8a3e-4828-be67-596decb776f6.png)
+![CAP4_11](https://user-images.githubusercontent.com/93899422/142348970-6d1f6a8c-81c5-428d-b06f-9cc514f3d2a1.png)
 
 # EJERCICIOS 13
 
@@ -146,7 +145,7 @@ Objetivos Específicos
 
 # EJERCICIOS 15
 
-![CAP4_15](https://user-images.githubusercontent.com/93899422/142348482-485a92c8-8cd9-43cf-a040-7ab7752574f9.png)
+![CAP4_15](https://user-images.githubusercontent.com/93899422/142348971-e71c12f8-d1e6-47ce-bb7b-e42dd3a3f464.png)
 
 # EJERCICIOS 17
 
@@ -159,7 +158,6 @@ Objetivos Específicos
 # EJERCICIOS 21
 
 ![CAP4_21](https://user-images.githubusercontent.com/93899422/142348485-32bc83f6-fe92-4f59-8fe1-6aac774ae8bf.png)
-
 
 # EJERCICIOS 23
 
