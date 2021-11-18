@@ -4,15 +4,16 @@ INFORME TAREA 2
 # OBJETIVOS
 
 Objetivo General
+
 Explicar conceptos fundamentales de los principios de circuitos eléctricos, por medio de una investigación académica que incluya la extracción del material en mapas mentales y la rosolución de ejercicios, que permita a los lectores comprender de mejor manera la estructuración de los circuitos eléctricos.   
 
 Objetivos Especificos 
 
-Explicar la relación que exite entre la corriente, el voltaje y la resistencia por medio de la ley de OHM.
+ 1. Explicar la relación que exite entre la corriente, el voltaje y la resistencia por medio de la ley de OHM.
 
-Aplicar la los concimientos adquiridos de esta unidad para entender la capacidad de trabajo y la razón de cambio para la cual se utiliza la energía.
+ 2. Aplicar la los concimientos adquiridos de esta unidad para entender la capacidad de trabajo y la razón de cambio para la cual se utiliza la energía.
 
-Resolver ejercicios practicos que permitan la aplicación de lo estudiado en ejercicios prácticos. 
+ 3. Resolver ejercicios practicos que permitan la aplicación de lo estudiado en ejercicios prácticos. 
 
 
 # MARCO TEORICO
