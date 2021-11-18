@@ -113,6 +113,85 @@ Objetivos Específicos
 
 ![CAP3Part2](https://user-images.githubusercontent.com/93899422/142338798-ee54be23-b311-400c-99d4-4de086988c69.png)
 
+# EJERCICIOS CAPITULO N°4
+
+# EJERCICIOS 1
+
+![CAP4_1](https://user-images.githubusercontent.com/93899422/142348472-be41f940-038b-454e-a3a9-b2ad73b775b9.png)
+
+# EJERCICIOS 3
+
+![CAP4_3](https://user-images.githubusercontent.com/93899422/142348474-96bed97f-95af-49d5-a7cc-49a248b58519.png)
+
+# EJERCICIOS 5
+
+![CAP4_5](https://user-images.githubusercontent.com/93899422/142348475-c1d54166-0f8f-4531-8972-bc58844ec78b.png)
+
+# EJERCICIOS 7
+
+![CAP4_7](https://user-images.githubusercontent.com/93899422/142348476-0cb4b474-0faf-4334-b9a7-b464f1e4a8b5.png)
+
+# EJERCICIOS 9
+
+![CAP4_9](https://user-images.githubusercontent.com/93899422/142348477-fcfb24e0-f866-471f-a501-1a1557747f2e.png)
+
+
+# EJERCICIOS 11
+
+![CAP4_11](https://user-images.githubusercontent.com/93899422/142348479-462ef452-8a3e-4828-be67-596decb776f6.png)
+
+# EJERCICIOS 13
+
+![CAP4_13](https://user-images.githubusercontent.com/93899422/142348481-6f5babd6-a574-4972-961f-4ed6786c5c7b.png)
+
+# EJERCICIOS 15
+
+![CAP4_15](https://user-images.githubusercontent.com/93899422/142348482-485a92c8-8cd9-43cf-a040-7ab7752574f9.png)
+
+# EJERCICIOS 17
+
+![CAP4_17](https://user-images.githubusercontent.com/93899422/142348483-4ad3ebf8-bc96-4604-b99b-d4d56bcedf43.png)
+
+# EJERCICIOS 19
+
+![CAP4_19](https://user-images.githubusercontent.com/93899422/142348484-5da07b64-f247-4f6c-906e-79e778b1f801.png)
+
+# EJERCICIOS 21
+
+![CAP4_21](https://user-images.githubusercontent.com/93899422/142348485-32bc83f6-fe92-4f59-8fe1-6aac774ae8bf.png)
+
+
+# EJERCICIOS 23
+
+![CAP4_23](https://user-images.githubusercontent.com/93899422/142348487-9aa684d6-dc57-4d0a-8a26-06c40c1007a7.png)
+
+# EJERCICIOS 25
+
+![CAP4_25](https://user-images.githubusercontent.com/93899422/142348489-2940bbff-1504-43c4-801e-b98ad302a138.png)
+
+# EJERCICIOS 27
+
+![CAP4_27](https://user-images.githubusercontent.com/93899422/142348492-806e3602-0260-4fce-a109-a4680d15e4fa.png)
+
+# EJERCICIOS 29
+
+![CAP4_29](https://user-images.githubusercontent.com/93899422/142348494-184758cf-843a-4ef1-a0d6-9e0f573418a0.png)
+
+# EJERCICIOS 31
+
+![CAP4_31](https://user-images.githubusercontent.com/93899422/142348495-2488738f-6346-4b47-ac4d-ff31f4bedc63.png)
+
+# EJERCICIOS 33
+
+![CAP4_33](https://user-images.githubusercontent.com/93899422/142348496-1d953da2-ce44-4c4c-86ac-f28b8f4e3aa7.png)
+
+# EJERCICIOS 35
+
+![CAP4_35](https://user-images.githubusercontent.com/93899422/142348497-24fa0338-d641-4d08-9f6f-c6f4adc7f4cc.png)
+
+# EJERCICIOS 37
+
+![CAP4_37](https://user-images.githubusercontent.com/93899422/142348498-dc92252c-bfbd-4881-bec5-815d3ea5a007.png)
 
 # VIDEO
 
