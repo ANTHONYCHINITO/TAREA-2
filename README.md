@@ -3,7 +3,10 @@ INFORME TAREA 2
 
 # OBJETIVOS
 
-Objetivo General 
+Objetivo General
+
+
+Objetivos Especificos 
 
 # MARCO TEORICO
 
