@@ -14,6 +14,8 @@ Capitulo 3:
 
 ![](https://github.com/ANTHONYCHINITO/TAREA-2/blob/main/Imagenes/png%20(3).png)
 
+°[](https://github.com/ANTHONYCHINITO/TAREA-2/blob/main/Imagenes/png%20(4).png)
+
 Capitulo 4:
 
 •	HACER CLICK
